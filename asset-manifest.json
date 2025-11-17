@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/buy-ticket-form-app/static/css/main.0ba2e8b0.css",
+    "main.js": "/buy-ticket-form-app/static/js/main.00f1dcd3.js",
+    "static/js/453.ab36a397.chunk.js": "/buy-ticket-form-app/static/js/453.ab36a397.chunk.js",
+    "index.html": "/buy-ticket-form-app/index.html",
+    "main.0ba2e8b0.css.map": "/buy-ticket-form-app/static/css/main.0ba2e8b0.css.map",
+    "main.00f1dcd3.js.map": "/buy-ticket-form-app/static/js/main.00f1dcd3.js.map",
+    "453.ab36a397.chunk.js.map": "/buy-ticket-form-app/static/js/453.ab36a397.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ba2e8b0.css",
+    "static/js/main.00f1dcd3.js"
+  ]
+}
