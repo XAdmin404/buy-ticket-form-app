@@ -67,7 +67,10 @@ const BuyTicketForm = () => {
         <p>Telefon: {telefon}</p>
         <p>BBiletul este unic. Acesta contine informatiile furnizate si vor fi verificate la intrare.</p>
         </div>
+<<<<<<< HEAD
         
+=======
+>>>>>>> 2724965cb3fd1d5f3dd57d6ce4c61205c0fd6e36
       </div>
     </div>
   )
