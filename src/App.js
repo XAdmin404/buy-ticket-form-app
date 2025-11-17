@@ -67,7 +67,7 @@ const BuyTicketForm = () => {
         <p>Telefon: {telefon}</p>
         <p>BBiletul este unic. Acesta contine informatiile furnizate si vor fi verificate la intrare.</p>
         </div>
-        <img src="/qr.png" className='w-[190px] h-[190px] relative top-[5px]'/>
+        
       </div>
     </div>
   )
